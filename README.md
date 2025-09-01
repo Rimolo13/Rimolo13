@@ -1,16 +1,19 @@
-## Hi there 👋
+# 👋 Hallo, ich bin Rimolo
 
-<!--
-**Rimolo13/Rimolo13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Willkommen auf meinem GitHub-Profil!  
+Mein Ziel ist es, **hochwertige Projekte** zu entwickeln und mich kontinuierlich weiterzuentwickeln.  
+Dabei lege ich großen Wert auf **saubere Code-Qualität** und nachhaltige Projektstrukturen.
 
-Here are some ideas to get you started:
+✨ Ich freue mich jederzeit über **Feedback, Vorschläge und Anregungen**, um meine Arbeit zu verbessern.  
+Denn nur durch Austausch und Zusammenarbeit können Projekte noch besser werden.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Was dich hier erwartet
+- Projekte mit Fokus auf Qualität und Best Practices  
+- Kontinuierliche Verbesserung und neue Ideen  
+- Offenheit für konstruktive Kritik und gemeinsame Weiterentwicklung  
+
+---
+
+Vielen Dank fürs Vorbeischauen – und zögere nicht, deine Gedanken oder Verbesserungsvorschläge zu teilen! 😊
