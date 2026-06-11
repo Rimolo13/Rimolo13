@@ -21,10 +21,12 @@ Vielen Dank fürs Vorbeischauen – und zögere nicht, deine Gedanken oder Verbe
 
 <div align="center">
   <img
+    height="150"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rimolo13&theme=chartreuse-dark&show_icons=true&hide_border=true&layout=compact"
     alt="Rimolo13's Top Languages"
   />
   <img
+    height="150"
     src="https://github-readme-stats.vercel.app/api?username=Rimolo13&theme=chartreuse-dark&show_icons=true&hide_border=true&count_private=false"
     alt="Rimolo13's Stats"
   />
