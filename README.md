@@ -23,8 +23,8 @@ Vielen Dank fürs Vorbeischauen – und zögere nicht, deine Gedanken oder Verbe
   style="
     display: grid;
     width: 100%;
-    grid-template-columns: 1fr 1fr;
-    grid-template-rows: 1fr;
+    grid-template-columns: 1fr;
+    grid-template-rows: 1fr 1fr;
   "
 >
   <img
